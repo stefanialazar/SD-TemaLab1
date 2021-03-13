@@ -15,13 +15,21 @@ Am rulat cu inputul din fisierul "teste.in" si am obtinut urmatoarele rezultate:
 Testul 1 :  n = 10^2, numarul maxim = 1000 
 
 Testul 2 :  n = 10^3, numarul maxim = 10000
+
 Testul 3 :  n = 10^4, numarul maxim = 10000
+
 Testul 4 :  n = 10^5, numarul maxim = 10000
+
 Testul 5 :  n = 10^6, numarul maxim = 1000
+
 Testul 6 :  n = 10^7, numarul maxim = 1000
+
 Testul 7 :  n = 10^8, numarul maxim = 1000
+
 Testul 8 :  n = 10^9, numarul maxim = 100
+
 Testul 9 :  n = 10^10, numarul maxim = 100
+
 Testul 10 :  n = 10^11, numarul maxim = 1000
 
 
