@@ -2,11 +2,17 @@
 Algoritmi de sortare
 
 Am ales optiunea 1, adica sa implementez cei 5 algoritmi de sortare:
+
 ○ BubbleSort
+
 ○ CountSort
+
 ○ RadixSort
+
 ○ MergeSort
+
 ○ QuickSort
+
 
 Am comparat timpii de rulare pe mai multe teste cu numere naturale, între cei 5 algoritmi, dar și cu timpul de rulare al algoritmului de sortare din limbajul C++.
 
