@@ -12,7 +12,8 @@ Am comparat timpii de rulare pe mai multe teste cu numere naturale, între cei 5
 
 Am rulat cu inputul din fisierul "teste.in" si am obtinut urmatoarele rezultate:
 
-Testul 1 :  n = 10^2, numarul maxim = 1000
+Testul 1 :  n = 10^2, numarul maxim = 1000 
+
 Testul 2 :  n = 10^3, numarul maxim = 10000
 Testul 3 :  n = 10^4, numarul maxim = 10000
 Testul 4 :  n = 10^5, numarul maxim = 10000
